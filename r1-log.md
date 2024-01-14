@@ -13,3 +13,6 @@ Learning about type casting and mathematical operations. Today's project was to 
 
 ### R1D3
 Learning about flow charts, conditionals and modulo. Also started on logical operators (and, or, not). I learned that you can print ascii art on multiple lines if you start the first line with `print('''` and end the block with `''')`. For the project today, I worked on a choose-your-own-adventure story that made use of lots of if conditionals.
+
+### R1D4
+Learning about using the random module and also working with lists. Lists can be nested. Today's project was to implement a textual version of Rock Paper Scissors.
