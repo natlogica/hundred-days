@@ -16,3 +16,6 @@ Learning about flow charts, conditionals and modulo. Also started on logical ope
 
 ### R1D4
 Learning about using the random module and also working with lists. Lists can be nested. Today's project was to implement a textual version of Rock Paper Scissors.
+
+### R1D5
+Learning about using a for loop to iterate through a list. Can also iterate through numbers in range(). Today's project was to create a password generator with the desired sequence of numbers, letters and symbols with an end result that is random and unique.
