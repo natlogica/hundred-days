@@ -19,3 +19,6 @@ Learning about using the random module and also working with lists. Lists can be
 
 ### R1D5
 Learning about using a for loop to iterate through a list. Can also iterate through numbers in range(). Today's project was to create a password generator with the desired sequence of numbers, letters and symbols with an end result that is random and unique.
+
+### R1D6
+For today's lesson, we visited reeborg.ca, Reeborg's World. This educational site lets you write short scripts to move a robot across a grid. Some of the topics covered today were defining custom functions and using while loops. For today's project, a more complex series of steps to move Reeborg through a maze was required.
