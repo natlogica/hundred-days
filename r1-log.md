@@ -22,3 +22,6 @@ Learning about using a for loop to iterate through a list. Can also iterate thro
 
 ### R1D6
 For today's lesson, we visited reeborg.ca, Reeborg's World. This educational site lets you write short scripts to move a robot across a grid. Some of the topics covered today were defining custom functions and using while loops. For today's project, a more complex series of steps to move Reeborg through a maze was required.
+
+### R1D7
+The lesson today reviewed concepts with for loops, while loops and conditionals. The project involved implementing an ascii version of the Hangman game, guessing letters in a word and determining if the word is completed.
