@@ -25,3 +25,6 @@ For today's lesson, we visited reeborg.ca, Reeborg's World. This educational sit
 
 ### R1D7
 The lesson today reviewed concepts with for loops, while loops and conditionals. The project involved implementing an ascii version of the Hangman game, guessing letters in a word and determining if the word is completed.
+
+### R1D8
+Learning about functions with parameters. The first argument gets assigned to the first parameter - they are positional parameters. Alternately, you can use keyword arguments instead, making the assignments explicit. For today's project, we created a program that can encode and decode messages using Caesar's Cipher.
