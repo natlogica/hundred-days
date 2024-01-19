@@ -30,4 +30,4 @@ The lesson today reviewed concepts with for loops, while loops and conditionals.
 Learning about functions with parameters. The first argument gets assigned to the first parameter - they are positional parameters. Alternately, you can use keyword arguments instead, making the assignments explicit. For today's project, we created a program that can encode and decode messages using Caesar's Cipher.
 
 ### R1D9
-Today's lesson is about python dictionaries and nesting. In the project today, we built a program that emulates a silent auction.
+Today's lesson is about python dictionaries and nesting. A dictionary stores key-value pairs. In the project today, we built a program that emulates a silent auction.
