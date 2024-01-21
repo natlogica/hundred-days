@@ -34,3 +34,6 @@ Today's lesson is about python dictionaries and nesting. A dictionary stores key
 
 ### R1D10
 Using functions with outputs is the topic for today. The 'return' keyword is needed to get output from a function. For example, `output = function()` as a way to store this within a variable. We can use the string.title() method to convert mixed-case entries into title-case entries. Multiple returns can be used within a function to escape if certain criteria are not met. Use triple quotation marks to make multiline comments or create docstrings. Finally, the project today was to create a functioning calculator that could return the result of an addition, subtration, division or multiplication query.
+
+### R1D11
+Today's focus is to build a capstone project that incorporates all the concepts we have used so far. The goal is to create a blackjack card game. At the moment, it is a text only game, but it uses the standard mechanics of the card game, working toward (but not exceeding) a sum of 21.
