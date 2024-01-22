@@ -37,3 +37,6 @@ Using functions with outputs is the topic for today. The 'return' keyword is nee
 
 ### R1D11
 Today's focus is to build a capstone project that incorporates all the concepts we have used so far. The goal is to create a blackjack card game. At the moment, it is a text only game, but it uses the standard mechanics of the card game, working toward (but not exceeding) a sum of 21.
+
+### R1D12
+Learning about the scope of variables and namespaces. Today's project was to create a number guessing game.
