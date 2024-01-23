@@ -39,4 +39,7 @@ Using functions with outputs is the topic for today. The 'return' keyword is nee
 Today's focus is to build a capstone project that incorporates all the concepts we have used so far. The goal is to create a blackjack card game. At the moment, it is a text only game, but it uses the standard mechanics of the card game, working toward (but not exceeding) a sum of 21.
 
 ### R1D12
-Learning about the scope of variables and namespaces. Today's project was to create a number guessing game.
+Learning about the scope of variables and namespaces. One important aspect to remember is that it's a bad idea to use global variables. Instead, use a retun within the function to pass that information to the caller, which can then be used at will. Also, remember that breaking a large project down into smaller modules to tackle really makes an intimidating program much more doable. Today's project was to create a number guessing game, allowing the player 5 or 10 guesses to correctly land on a randomly selected number.
+
+### R1D13
+Today's focus is on debugging techniques. Describe the problem and test your assumptions. Next try to reproduce the bug. Using print statements can help to clarify the status of a variable, which may be something unexpected and provides a clue to the problem. For the project today, several debugging exercises are provided.
