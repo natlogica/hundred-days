@@ -43,3 +43,6 @@ Learning about the scope of variables and namespaces. One important aspect to re
 
 ### R1D13
 Today's focus is on debugging techniques. Describe the problem and test your assumptions. Next try to reproduce the bug. Using print statements can help to clarify the status of a variable, which may be something unexpected and provides a clue to the problem. For the project today, several debugging exercises are provided.
+
+### R1D14
+The project today is to implement a python version of the higher lower game, based on search volume: guess which search term is more popular than another. 
