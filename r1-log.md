@@ -46,3 +46,6 @@ Today's focus is on debugging techniques. Describe the problem and test your ass
 
 ### R1D14
 The project today is to implement a python version of the higher lower game, based on search volume: guess which search term is more popular than another. A Python dictionary contains some data about how many followers certain celebrities have, and the game will determine the winning guesses.
+
+### R1D15
+Some excitement today because it's time to set up a local dev environment. I've installed Python 3 on Windows and will be trying out Pycharm Community Edition. The project today is to create a virtual coin-operated coffee machine, like one you might find in an office lobby. This project feels interesting to me!
