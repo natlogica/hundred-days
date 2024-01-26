@@ -49,3 +49,6 @@ The project today is to implement a python version of the higher lower game, bas
 
 ### R1D15
 Some excitement today because it's time to set up a local dev environment. I've installed Python 3 on Windows and will be trying out Pycharm Community Edition. The project today is to create a virtual coin-operated coffee machine, like one you might find in an office lobby. This project feels interesting to me!
+
+### R1D16
+Introducing object-oriented code writing today. For the project, I'm working on converting yesterday's procedural code into a modular structure with objects. 
