@@ -52,3 +52,6 @@ Some excitement today because it's time to set up a local dev environment. I've 
 
 ### R1D16
 Introducing object-oriented code writing today. For the project, I'm working on converting yesterday's procedural code into a modular structure with objects. 
+
+### R1D17
+Going further with object-oriented code, the lesson is on creating a new class from scratch. The project today is building a quiz game.
