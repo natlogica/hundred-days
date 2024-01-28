@@ -55,3 +55,6 @@ Introducing object-oriented code writing today. For the project, I'm working on 
 
 ### R1D17
 Going further with object-oriented code, the lesson is on creating a new class from scratch. The project today is building a quiz game.
+
+### R1D18
+Learning tuples today. Also working again with the Python Turtle module for graphics. The project is making an artwork with a grid of random dots.
