@@ -58,3 +58,7 @@ Going further with object-oriented code, the lesson is on creating a new class f
 
 ### R1D18
 Learning tuples today. Also working again with the Python Turtle module for graphics. The project is making an artwork with a grid of random dots.
+
+### R1D19
+The topic today is using event listeners to pay attention to key presses. There are two projects: one is creating an EtchASketch type drawing program; the second is creating a turtle race with multiple instances of the turtle cursor.
+
