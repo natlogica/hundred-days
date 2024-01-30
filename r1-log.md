@@ -62,3 +62,5 @@ Learning tuples today. Also working again with the Python Turtle module for grap
 ### R1D19
 The topic today is using event listeners to pay attention to key presses. There are two projects: one is creating an EtchASketch type drawing program; the second is creating a turtle race with multiple instances of the turtle cursor.
 
+### R1D20
+Today's session is entirely devoted to the first half of creating a snake game in python, using the Turtle package. Setting up the movement of the snake involves making three turtles follow one another on the screen.
