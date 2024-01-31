@@ -64,3 +64,6 @@ The topic today is using event listeners to pay attention to key presses. There 
 
 ### R1D20
 Today's session is entirely devoted to the first half of creating a snake game in python, using the Turtle package. Setting up the movement of the snake involves making three turtles follow one another on the screen.
+
+### R1D21
+Learning about class inheritance today and continuing work on the Snake game.
