@@ -67,3 +67,6 @@ Today's session is entirely devoted to the first half of creating a snake game i
 
 ### R1D21
 Learning about class inheritance today and continuing work on the Snake game. We needed to do collision detection on the walls of the screen and print and update the scoreboard. 
+
+### R1D22
+Today's project is to recreate the classic video game Pong, using what we've already learned about event listeners and collision detection. 
