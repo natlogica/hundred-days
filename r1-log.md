@@ -70,3 +70,6 @@ Learning about class inheritance today and continuing work on the Snake game. We
 
 ### R1D22
 Today's project is to recreate the classic video game Pong, using what we've already learned about event listeners and collision detection. 
+
+### R1D23
+Turtle Crossing is the name of the video game project I am working on today. It is a simplified version of Frogger, where a turtle has to cross a busy highway. 
