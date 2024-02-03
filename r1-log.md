@@ -73,3 +73,6 @@ Today's project is to recreate the classic video game Pong, using what we've alr
 
 ### R1D23
 Turtle Crossing is the name of the video game project I am working on today. It is a simplified version of Frogger, where a turtle has to cross a busy highway. 
+
+### R1D24
+Some themes for today are working with the local file system and directories. This is applied to the Snake game for keeping a persistent high score, and also used in a mail-merge type program that will populate names in a form letter.
