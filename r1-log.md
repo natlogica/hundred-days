@@ -76,3 +76,6 @@ Turtle Crossing is the name of the video game project I am working on today. It 
 
 ### R1D24
 Some themes for today are working with the local file system and directories. This is applied to the Snake game for keeping a persistent high score, and also used in a mail-merge type program that will populate names in a form letter.
+
+### R1D25
+Working with CSV files and using Pandas to analyze data are the focus of today's projects. One is to create a Squirrel Census app, and the second project is a game using the 50 US states.
