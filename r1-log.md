@@ -82,3 +82,6 @@ Working with CSV files and using Pandas to analyze data are the focus of today's
 
 ### R1D26
 More practice using lists and dictionaries, with a project to create a command-line program that converts a word into its corresponding NATO alphabet letters.
+
+### R1D27
+Today's lesson involves graphical user interfaces using Tkinter and function arguments. The project for today is a unit converter program that uses these elements in its gui.
