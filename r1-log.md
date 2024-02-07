@@ -85,3 +85,6 @@ More practice using lists and dictionaries, with a project to create a command-l
 
 ### R1D27
 Today's lesson involves graphical user interfaces using Tkinter and function arguments. The project for today is a unit converter program that uses these elements in its gui.
+
+### R1D28
+A pomodoro app using Tkinter is the project for today. It shows a graphic of a tomato and a clock timer, which is set to stop after 25 minutes to remind the user to take a 5 minute break. After 4 cycles of 20 minutes, the next break is 15 minutes. This is an app that I can really use!
