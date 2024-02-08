@@ -88,3 +88,6 @@ Today's lesson involves graphical user interfaces using Tkinter and function arg
 
 ### R1D28
 A pomodoro app using Tkinter is the project for today. It shows a graphic of a tomato and a clock timer, which is set to stop after 25 minutes to remind the user to take a 5 minute break. After 4 cycles of 20 minutes, the next break is 15 minutes. This is an app that I can really use!
+
+### R1D29
+Working with Tkinter, I am building a small graphical app that stores and generates passwords. 
