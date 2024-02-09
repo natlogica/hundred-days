@@ -91,3 +91,6 @@ A pomodoro app using Tkinter is the project for today. It shows a graphic of a t
 
 ### R1D29
 Working with Tkinter, I am building a small graphical app that stores and generates passwords. 
+
+### R1D30
+The topic for today is errors, exceptions and saving JSON data. These are used in making some improvements to the projects of the past few days. The password app and Nato alphabet apps are ripe for some upgrades.
