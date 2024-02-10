@@ -94,3 +94,6 @@ Working with Tkinter, I am building a small graphical app that stores and genera
 
 ### R1D30
 The topic for today is errors, exceptions and saving JSON data. These are used in making some improvements to the projects of the past few days. The password app and Nato alphabet apps are ripe for some upgrades.
+
+### R1D31
+Using ktinker to create a flash card app from scratch.
