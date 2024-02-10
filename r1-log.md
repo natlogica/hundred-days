@@ -96,4 +96,4 @@ Working with Tkinter, I am building a small graphical app that stores and genera
 The topic for today is errors, exceptions and saving JSON data. These are used in making some improvements to the projects of the past few days. The password app and Nato alphabet apps are ripe for some upgrades.
 
 ### R1D31
-Using ktinker to create a flash card app from scratch.
+Using ktinker to create a flash card app from scratch. It keeps track of words that have been learned so that they are not repeated.
