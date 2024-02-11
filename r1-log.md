@@ -97,3 +97,6 @@ The topic for today is errors, exceptions and saving JSON data. These are used i
 
 ### R1D31
 Using ktinker to create a flash card app from scratch. It keeps track of words that have been learned so that they are not repeated.
+
+### R1D32
+Today's work involves email SMTP and the date time modules.
