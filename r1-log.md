@@ -100,3 +100,7 @@ Using ktinker to create a flash card app from scratch. It keeps track of words t
 
 ### R1D32
 Today's work involves email SMTP and the date time modules. The app is the "Automated Birthday Wisher."
+
+### R1D33
+Learning about Application Programming Interfaces in order to create an app that sends an email when the International Space Station is in the viewer's immediate night sky.
+
