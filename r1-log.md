@@ -104,3 +104,5 @@ Today's work involves email SMTP and the date time modules. The app is the "Auto
 ### R1D33
 Learning about Application Programming Interfaces in order to create an app that sends an email when the International Space Station is in the viewer's immediate night sky.
 
+### R1D34
+Revisiting the Quiz app from before, now giving it a GUI. Using the API URL from Open Trivia Database to retrieve a fresh batch of questions for the app.
