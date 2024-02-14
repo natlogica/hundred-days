@@ -106,3 +106,6 @@ Learning about Application Programming Interfaces in order to create an app that
 
 ### R1D34
 Revisiting the Quiz app from before, now giving it a GUI. Using the API URL from Open Trivia Database to retrieve a fresh batch of questions for the app.
+
+### R1D35
+Topics today include API keys, authentication, environment variables and sending sms. These are applied to building a Rain Alert app that will automatically send an SMS to our phone when it is going to be a rainy day. 
