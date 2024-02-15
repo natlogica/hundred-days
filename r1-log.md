@@ -109,3 +109,6 @@ Revisiting the Quiz app from before, now giving it a GUI. Using the API URL from
 
 ### R1D35
 Topics today include API keys, authentication, environment variables and sending sms. These are applied to building a Rain Alert app that will automatically send an SMS to our phone when it is going to be a rainy day. 
+
+### R1D36
+Today is a stock news monitoring project. To emulate a Bloomberg terminal --- to a certain extent. We can compare the opening stock prices with the closing stock prices. To do this, we'll use an API to get stock prices.
