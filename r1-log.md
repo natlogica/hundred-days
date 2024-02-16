@@ -112,3 +112,6 @@ Topics today include API keys, authentication, environment variables and sending
 
 ### R1D36
 Today is a stock news monitoring project. To emulate a Bloomberg terminal --- to a certain extent. We can compare the opening stock prices with the closing stock prices. To do this, we'll use an API to get stock prices.
+
+### R1D37
+Advanced authentication along with Post, Put and Delete requests to the server is today's topic. This uses the Requests module for Python. The project is a habit tracker that visually shows progress over a year's time, resembling github's grid of active days.
