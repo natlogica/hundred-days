@@ -115,3 +115,6 @@ Today is a stock news monitoring project. To emulate a Bloomberg terminal --- to
 
 ### R1D37
 Advanced authentication along with Post, Put and Delete requests to the server is today's topic. This uses the Requests module for Python. The project is a habit tracker that visually shows progress over a year's time, resembling github's grid of active days.
+
+### R1D38
+Workout tracking app using python and google sheets. Using NLP, python adds your input to a Google spreadsheet. Using environment variables, auth headers, APIs and Post requests along with DateTime strftime(). Also using Nutritionix API, to get APP_ID and API_KEY. Also openai API https://openai.com/blog/openai-api. Also using sheety JSON API https://sheety.co/. 
