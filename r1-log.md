@@ -118,3 +118,6 @@ Advanced authentication along with Post, Put and Delete requests to the server i
 
 ### R1D38
 Workout tracking app using python and google sheets. Using NLP, python adds your input to a Google spreadsheet. Using environment variables, auth headers, APIs and Post requests along with DateTime strftime(). Also using Nutritionix API, to get APP_ID and API_KEY. Also openai API https://openai.com/blog/openai-api. Also using sheety JSON API https://sheety.co/. 
+
+### R1D39
+Today's project is is a flight search app that will contact me with the lowest price on a desired flight. It uses several flight seach APIs, google sheets and Twilio.
