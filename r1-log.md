@@ -121,3 +121,6 @@ Workout tracking app using python and google sheets. Using NLP, python adds your
 
 ### R1D39
 Today's project is is a flight search app that will contact me with the lowest price on a desired flight. It uses several flight search APIs, google sheets and Twilio.
+
+### R1D40
+Expanding on the flight search to include a spreadsheet to sign up new users who want to receive a newsletter about new deals from the Flight Club.
