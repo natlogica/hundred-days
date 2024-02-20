@@ -124,3 +124,6 @@ Today's project is is a flight search app that will contact me with the lowest p
 
 ### R1D40
 Expanding on the flight search to include a spreadsheet to sign up new users who want to receive a newsletter about new deals from the Flight Club.
+
+### R1D41
+Reviewing how the internet works and some basic HTML. The project involves creating a rating system for movies.
