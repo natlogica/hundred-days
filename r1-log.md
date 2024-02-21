@@ -127,3 +127,6 @@ Expanding on the flight search to include a spreadsheet to sign up new users who
 
 ### R1D41
 Reviewing how the internet works and some basic HTML. The project involves creating a rating system for movies.
+
+### R1D42
+Reviewing the HTML boilerplate structure. For the project, building a birthday invite website.
