@@ -130,3 +130,6 @@ Reviewing how the internet works and some basic HTML. The project involves creat
 
 ### R1D42
 Reviewing the HTML boilerplate structure. For the project, building a birthday invite website.
+
+### R1D43
+Reviewing CSS and selectors. Today's project is to style an HTML page with colors that correspond with Spanish language learning vocabulary. 
