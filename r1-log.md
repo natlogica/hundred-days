@@ -133,3 +133,6 @@ Reviewing the HTML boilerplate structure. For the project, building a birthday i
 
 ### R1D43
 Reviewing CSS and selectors. Today's project is to style an HTML page with colors that correspond with Spanish language learning vocabulary. 
+
+### R1D44
+Reviewing more CSS and some aspects of design, such as color and font choices. The project today is to create a motivational meme webpage.
