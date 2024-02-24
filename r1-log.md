@@ -136,3 +136,7 @@ Reviewing CSS and selectors. Today's project is to style an HTML page with color
 
 ### R1D44
 Reviewing more CSS and some aspects of design, such as color and font choices. The project today is to create a motivational meme webpage.
+
+### R1D45
+Learning about webscraping with BeautifulSoup to work with html elements. Using this to produce a webpage listing the top 100 movies of all time.
+
