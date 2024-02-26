@@ -142,3 +142,6 @@ Learning about webscraping with BeautifulSoup to work with html elements. Using 
 
 ### R1D46
 Today's project uses BeautifulSoup to create a Python Time Machine. It asks for input for a date in time, then uses that to scrape the corresponding Billboard Top 100 songs for that date. Then it adds those songs to a Spotify playlist. 
+
+### R1D47
+Today's project is a price checker for Amazon which uses BeautifulSoup to scrape a product page and then email new prices when they change.
