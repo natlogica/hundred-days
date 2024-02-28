@@ -148,3 +148,6 @@ Today's project is a price checker for Amazon which uses BeautifulSoup to scrape
 
 ### R1D48
 An introduction to Selenium Webdriver to use in more sophisticated web scraping experiments. Can automate interactions with the browser like clicking and filling in forms. The project involves using this to advance rapidly in the Cookie Clicker browser game.
+
+### R1D49
+Today the goal is to combine techniques from Selenium with earlier skills to create a bot that applies for jobs on LinkedIn.
