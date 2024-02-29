@@ -151,3 +151,6 @@ An introduction to Selenium Webdriver to use in more sophisticated web scraping 
 
 ### R1D49
 Today the goal is to combine techniques from Selenium with earlier skills to create a bot that applies for jobs on LinkedIn.
+
+### R1D50
+Selenium is used to make a tinder bot that automatically swipes up to 100 times per day.
