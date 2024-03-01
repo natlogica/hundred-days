@@ -154,3 +154,6 @@ Today the goal is to combine techniques from Selenium with earlier skills to cre
 
 ### R1D50
 Selenium is used to make a tinder bot that automatically swipes up to 100 times per day.
+
+### R1D51
+A Selenium bot launches an internet speed test, then uses that data to populate and publish an automated tweet.
