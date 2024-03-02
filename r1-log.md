@@ -157,3 +157,6 @@ Selenium is used to make a tinder bot that automatically swipes up to 100 times 
 
 ### R1D51
 A Selenium bot launches an internet speed test, then uses that data to populate and publish an automated tweet.
+
+### R1D52
+A Selenium bot for extracting names of followers from an Instagram account of interest, and then following them.
