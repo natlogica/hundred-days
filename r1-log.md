@@ -160,3 +160,6 @@ A Selenium bot launches an internet speed test, then uses that data to populate 
 
 ### R1D52
 A Selenium bot for extracting names of followers from an Instagram account of interest, and then following them.
+
+### R1D53
+Using BeautifulSoup and Selenium to gather data from a real estate website and transfer it into Google Forms. Grab price, address and URL of rental units. 
