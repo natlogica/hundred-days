@@ -166,3 +166,6 @@ Using BeautifulSoup and Selenium to gather data from a real estate website and t
 
 ### R1D54
 Python decorators and using Flask for backend web development. Project is building a server and database with Flask from the ground up. 
+
+### R1D55
+Working on advanced decorators in Flask and debugging. Project is building a higher/lower number guessing game with animated gifs.
