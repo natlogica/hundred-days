@@ -169,3 +169,6 @@ Python decorators and using Flask for backend web development. Project is buildi
 
 ### R1D55
 Working on advanced decorators in Flask and debugging. Project is building a higher/lower number guessing game with animated gifs.
+
+### R1D56
+Lesson for today includes using static files on the website and doing HTML/CSS file rendering. This is used for creating a personal namecard website using Flask.
