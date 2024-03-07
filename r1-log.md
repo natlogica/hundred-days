@@ -172,3 +172,6 @@ Working on advanced decorators in Flask and debugging. Project is building a hig
 
 ### R1D56
 Lesson for today includes using static files on the website and doing HTML/CSS file rendering. This is used for creating a personal namecard website using Flask.
+
+### R1D57
+Using jinja to make templates for more dynamic html pages. Make styling and structure with a blog design to deploy in Flask.
