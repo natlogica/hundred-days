@@ -175,3 +175,6 @@ Lesson for today includes using static files on the website and doing HTML/CSS f
 
 ### R1D57
 Using jinja to make templates for more dynamic html pages. Make styling and structure with a blog design to deploy in Flask.
+
+### R1D58
+Using Bootstrap for building the frontend part of web pages. Project is building a "Tinder for dogs" website for a fictional client.
