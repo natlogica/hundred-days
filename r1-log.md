@@ -178,3 +178,6 @@ Using jinja to make templates for more dynamic html pages. Make styling and stru
 
 ### R1D58
 Using Bootstrap for building the frontend part of web pages. Project is building a "Tinder for dogs" website for a fictional client.
+
+### R1D59
+Combining Bootstrap, Flask and Jinja to make improvements to a blog template site. 
