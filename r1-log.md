@@ -181,3 +181,6 @@ Using Bootstrap for building the frontend part of web pages. Project is building
 
 ### R1D59
 Combining Bootstrap, Flask and Jinja to make improvements to a blog template site. 
+
+### R1D60
+Contact forms and post requests with Flask, sending emails. The Flask server has to receive the user data, triggering a method with the POST request.
