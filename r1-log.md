@@ -187,3 +187,6 @@ Contact forms and post requests with Flask, sending emails. The Flask server has
 
 ### R1D61
 Advanced forms with Flask, using Jinja and WTForms, which does some form validation.
+
+### R1D62
+Continuing work with FlaskWTF and Bootstrap-Flask to create a webpage that checks for available coffeshops with wifi. 
