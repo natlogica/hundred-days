@@ -184,3 +184,6 @@ Combining Bootstrap, Flask and Jinja to make improvements to a blog template sit
 
 ### R1D60
 Contact forms and post requests with Flask, sending emails. The Flask server has to receive the user data, triggering a method with the POST request.
+
+### R1D61
+Advanced forms with Flask, using Jinja and WTForms, which does some form validation.
