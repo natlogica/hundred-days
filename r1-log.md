@@ -190,3 +190,6 @@ Advanced forms with Flask, using Jinja and WTForms, which does some form validat
 
 ### R1D62
 Continuing work with FlaskWTF and Bootstrap-Flask to create a webpage that checks for available coffeshops with wifi. 
+
+### R1D63
+Virtual bookshelf using SQLite database and Flask.
