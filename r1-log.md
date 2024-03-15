@@ -196,3 +196,6 @@ Virtual bookshelf using SQLite database and Flask.
 
 ### R1D64
 An update to the top movie countdown website, using Flask, WTForms, SQLite and SQLAlchemy. It allows the user to edit the cards containing the movie information. This way, updates can be made to the database over time as preferences change.
+
+### R1D65
+Review of web design principles, color, typography and UI. Apply principles to redesign and rebrand an existing website.
