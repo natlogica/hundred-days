@@ -199,3 +199,6 @@ An update to the top movie countdown website, using Flask, WTForms, SQLite and S
 
 ### R1D65
 Review of web design principles, color, typography and UI. Apply principles to redesign and rebrand an existing website.
+
+### R1D66
+Learning about RESTful APIs. Using these to improve the Cafe Network website and create its own API.
