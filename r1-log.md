@@ -202,3 +202,6 @@ Review of web design principles, color, typography and UI. Apply principles to r
 
 ### R1D66
 Learning about RESTful APIs. Using these to improve the Cafe Network website and create its own API.
+
+### R1D67
+Converting the previous blog into a RESTful architecture.
