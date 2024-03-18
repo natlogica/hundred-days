@@ -205,3 +205,6 @@ Learning about RESTful APIs. Using these to improve the Cafe Network website and
 
 ### R1D67
 Converting the previous blog into a RESTful architecture.
+
+### R1D68
+Profile pages and user authentication with logins. Add Flask-Login to the blog project.
