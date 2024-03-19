@@ -208,3 +208,6 @@ Converting the previous blog into a RESTful architecture.
 
 ### R1D68
 Profile pages and user authentication with logins. Add Flask-Login to the blog project.
+
+### R1D69
+Relational databases. Adding more users to the improved blog project. Use Flask-Gravatar to add user profile images.
