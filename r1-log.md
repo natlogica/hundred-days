@@ -211,3 +211,6 @@ Profile pages and user authentication with logins. Add Flask-Login to the blog p
 
 ### R1D69
 Relational databases. Adding more users to the improved blog project. Use Flask-Gravatar to add user profile images.
+
+### R1D70
+Basics of using git in the commandline. Getting started with GitHub. Cloning, branching, merging and pull requests.
