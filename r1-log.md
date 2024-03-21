@@ -214,3 +214,6 @@ Relational databases. Adding more users to the improved blog project. Use Flask-
 
 ### R1D70
 Basics of using git in the commandline. Getting started with GitHub. Cloning, branching, merging and pull requests.
+
+### R1D71
+Publishing the Flask app to a third-party service that deploys from GitHub. Learning about gunicorn, psycopg2-binary and upgrading from SQLite to PostgresQL.
