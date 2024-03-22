@@ -217,3 +217,6 @@ Basics of using git in the commandline. Getting started with GitHub. Cloning, br
 
 ### R1D71
 Publishing the Flask app to a third-party service that deploys from GitHub. Learning about gunicorn, psycopg2-binary and upgrading from SQLite to PostgresQL.
+
+### R1D72
+Working with Pandas and Python Notebook in Google Colaboratory. Otherwise can use Jupyter Notebooks. Analyzing data in a csv.
