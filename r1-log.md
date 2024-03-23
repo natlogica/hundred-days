@@ -220,3 +220,8 @@ Publishing the Flask app to a third-party service that deploys from GitHub. Lear
 
 ### R1D72
 Working with Pandas and Python Notebook in Google Colaboratory. Otherwise can use Jupyter Notebooks. Analyzing data in a csv.
+
+### R1D73
+Continuing work with Pandas and Jupyter Notebooks. Making charts with Matplotlib.
+
+
