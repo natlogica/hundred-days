@@ -224,4 +224,7 @@ Working with Pandas and Python Notebook in Google Colaboratory. Otherwise can us
 ### R1D73
 Continuing work with Pandas and Jupyter Notebooks. Making charts with Matplotlib.
 
+### R1D74
+Aggregating and merging data in Pandas. Combining Jupyter notebooks with HTML. More charts with Matplotlib.
+
 
