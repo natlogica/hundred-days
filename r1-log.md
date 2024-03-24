@@ -227,4 +227,7 @@ Continuing work with Pandas and Jupyter Notebooks. Making charts with Matplotlib
 ### R1D74
 Aggregating and merging data in Pandas. Combining Jupyter notebooks with HTML. More charts with Matplotlib.
 
+### R1D75
+Combining Google Trends and time series data. More Matplotlib charts. Working with Locators.
+
 
