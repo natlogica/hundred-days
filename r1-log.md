@@ -230,4 +230,7 @@ Aggregating and merging data in Pandas. Combining Jupyter notebooks with HTML. M
 ### R1D75
 Combining Google Trends and time series data. More Matplotlib charts. Working with Locators.
 
+### R1D76
+Using bar charts and scatter plots with plotly and Pandas to compare info about different apps from the Google Play Store.
+
 
