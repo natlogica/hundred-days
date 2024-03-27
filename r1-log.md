@@ -233,4 +233,6 @@ Combining Google Trends and time series data. More Matplotlib charts. Working wi
 ### R1D76
 Using bar charts and scatter plots with plotly and Pandas to compare info about different apps from the Google Play Store.
 
+### R1D77
+Using numpy to do computation, focusing on linear algebra and ndarrays.
 
