@@ -236,3 +236,6 @@ Using bar charts and scatter plots with plotly and Pandas to compare info about 
 ### R1D77
 Using numpy to do computation, focusing on linear algebra and ndarrays.
 
+### R1D78
+Using Seaborn to visualize movie budget data.
+
