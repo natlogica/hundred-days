@@ -239,3 +239,6 @@ Using numpy to do computation, focusing on linear algebra and ndarrays.
 ### R1D78
 Using Seaborn to visualize movie budget data.
 
+### R1D79
+Analyzing dataset on Nobel laureates, using Plotly and Seaborn to visualize charts.
+
