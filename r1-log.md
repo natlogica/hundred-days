@@ -245,3 +245,6 @@ Analyzing dataset on Nobel laureates, using Plotly and Seaborn to visualize char
 ### R1D80
 Matplotlib and ploty analysis of hospital data from the 1840s. Distribution estimates and p-values.
 
+### R1D81
+Running a multivariable regression to analyze historical housing data.
+
