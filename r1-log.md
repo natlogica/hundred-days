@@ -242,3 +242,6 @@ Using Seaborn to visualize movie budget data.
 ### R1D79
 Analyzing dataset on Nobel laureates, using Plotly and Seaborn to visualize charts.
 
+### R1D80
+Matplotlib and ploty analysis of hospital data from the 1840s. Distribution estimates and p-values.
+
