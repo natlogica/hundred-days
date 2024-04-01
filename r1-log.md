@@ -248,3 +248,6 @@ Matplotlib and ploty analysis of hospital data from the 1840s. Distribution esti
 ### R1D81
 Running a multivariable regression to analyze historical housing data.
 
+### R1D82
+Capstone project: Text to Morse code converter.
+
