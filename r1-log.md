@@ -254,3 +254,6 @@ Capstone project: Text to Morse code converter.
 ### R1D83
 Capstone project: HTML and CSS portfolio website.
 
+### R1D84
+Capstone project: A text-based version of tic-tac-toe in the command line.
+
