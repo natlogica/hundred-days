@@ -251,3 +251,6 @@ Running a multivariable regression to analyze historical housing data.
 ### R1D82
 Capstone project: Text to Morse code converter.
 
+### R1D83
+Capstone project: HTML and CSS portfolio website.
+
