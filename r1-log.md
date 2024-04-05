@@ -260,3 +260,6 @@ Capstone project: A text-based version of tic-tac-toe in the command line.
 ### R1D85
 Additional capstone project choices include: US census data, NASA data, automation projects, e-commerce website, space invaders clone, dinosaur game clone, webscraped csv data, image color analysis, text to speech from a pdf, a typing challenge website and a todo list website. Before tackling these, I will slow down and review the basics for a few days.
 
+### R1D86
+Today I'm working on Chapter 2 in _Head First Python_. Reading files from disk and storing information in variables. Bringing that data into a table for more processing. 
+
