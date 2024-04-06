@@ -263,3 +263,6 @@ Additional capstone project choices include: US census data, NASA data, automati
 ### R1D86
 Today I'm working on Chapter 2 in _Head First Python_. Reading files from disk and storing information in variables. Bringing that data into a table for more processing. 
 
+### R1D87
+Starting Chapter 3 in HFP. Learning about processing list data. Working with for loops and converting data types.
+
