@@ -266,3 +266,6 @@ Today I'm working on Chapter 2 in _Head First Python_. Reading files from disk a
 ### R1D87
 Starting Chapter 3 in HFP. Learning about processing list data. Working with for loops and converting data types.
 
+### R1D88
+Continuing Chapter 3 in HFP. Using 'with' to open text files.
+
