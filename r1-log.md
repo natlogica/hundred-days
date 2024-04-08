@@ -269,3 +269,6 @@ Starting Chapter 3 in HFP. Learning about processing list data. Working with for
 ### R1D88
 Continuing Chapter 3 in HFP. Using 'with' to open text files.
 
+### R1D89
+Capturing data from a file, storing it in a variable and converting that data to be used for calculations and for display.
+
