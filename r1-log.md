@@ -272,3 +272,6 @@ Continuing Chapter 3 in HFP. Using 'with' to open text files.
 ### R1D89
 Capturing data from a file, storing it in a variable and converting that data to be used for calculations and for display.
 
+### R1D90
+Calculating averages based on the collected swim times.
+
