@@ -275,3 +275,6 @@ Capturing data from a file, storing it in a variable and converting that data to
 ### R1D90
 Calculating averages based on the collected swim times.
 
+### R1D91
+Creating a new notebook to open the file, convert the strings to numbers, calculate the average and print the results to the page. 
+
