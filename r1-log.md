@@ -278,3 +278,5 @@ Calculating averages based on the collected swim times.
 ### R1D91
 Creating a new notebook to open the file, convert the strings to numbers, calculate the average and print the results to the page. 
 
+### R1D92
+Starting Ch 4. Turning functions into shareable modules.
