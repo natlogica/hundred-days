@@ -280,3 +280,6 @@ Creating a new notebook to open the file, convert the strings to numbers, calcul
 
 ### R1D92
 Starting Ch 4. Turning functions into shareable modules.
+
+### R1D93
+Continuing Chapter 4. Refactoring the code to make it more reusable. Opening and processing all the files in the selected folder.
