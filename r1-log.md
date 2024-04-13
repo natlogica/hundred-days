@@ -283,3 +283,6 @@ Starting Ch 4. Turning functions into shareable modules.
 
 ### R1D93
 Continuing Chapter 4. Refactoring the code to make it more reusable. Opening and processing all the files in the selected folder.
+
+### R1D94
+Finishing Chapter 4 of HFP. Refactoring the code to add conditions that account for differences in the input files.
