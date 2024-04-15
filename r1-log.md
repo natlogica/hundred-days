@@ -286,3 +286,6 @@ Continuing Chapter 4. Refactoring the code to make it more reusable. Opening and
 
 ### R1D94
 Finishing Chapter 4 of HFP. Refactoring the code to add conditions that account for differences in the input files.
+
+### R1D95
+Starting Chapter 5. Creating bar charts based on data in f-strings.
