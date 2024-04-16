@@ -289,3 +289,6 @@ Finishing Chapter 4 of HFP. Refactoring the code to add conditions that account 
 
 ### R1D95
 Starting Chapter 5. Creating bar charts based on data in f-strings.
+
+### R1D96
+Continuing Ch 5. Using Python to customize html and svg boilerplate in order to display data read from files.
