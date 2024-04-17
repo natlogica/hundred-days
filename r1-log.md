@@ -292,3 +292,6 @@ Starting Chapter 5. Creating bar charts based on data in f-strings.
 
 ### R1D96
 Continuing Ch 5. Using Python to customize html and svg boilerplate in order to display data read from files.
+
+### R1D97
+Using built-in functions to scale the numbers for the size of the svgs so that they fit within the appropriate area of the page.
