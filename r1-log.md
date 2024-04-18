@@ -295,3 +295,6 @@ Continuing Ch 5. Using Python to customize html and svg boilerplate in order to 
 
 ### R1D97
 Using built-in functions to scale the numbers for the size of the svgs so that they fit within the appropriate area of the page.
+
+### R1D98
+Incorporating all the data into a dynamic web page. Starting Chapter 6, learning about the Dictionary data structure.
