@@ -298,3 +298,6 @@ Using built-in functions to scale the numbers for the size of the svgs so that t
 
 ### R1D98
 Incorporating all the data into a dynamic web page. Starting Chapter 6, learning about the Dictionary data structure.
+
+### R1D99
+By converting a list to a set and back again to a list, the duplicate names are automatically removed. A list can also shrink and grow dynamically.
