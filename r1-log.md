@@ -301,3 +301,6 @@ Incorporating all the data into a dynamic web page. Starting Chapter 6, learning
 
 ### R1D99
 By converting a list to a set and back again to a list, the duplicate names are automatically removed. A list can also shrink and grow dynamically.
+
+### R1D100
+Continuing Chapter 6. Using a dictionary to keep names associated with their data files. With the file names stored this way, it is easy to access all the files associated with a particular name, doing a lookup.
